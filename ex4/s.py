@@ -1,0 +1,11 @@
+import socket
+sock = socket.socket(family = socket.AF_INET,type =socket.SOCK_DGRAM)
+sock.bind(('127.0.0.1',1234))
+t= sock.recvfrom(1024)
+#print("listen")
+print("Connection done")
+print("String received from client is:")
+print(t[0].decode())
+print("Sending back")
+sock.sendto(t[0],t[1])
+#print(t)
