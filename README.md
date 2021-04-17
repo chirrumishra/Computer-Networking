@@ -1,6 +1,6 @@
 # Computer-Networking
 
-Implementation of Peograms :
+## Implementation of Programs :
 
 ex4( CLIENT SERVER ECHO COMMUNICATION USING)
 Server :
