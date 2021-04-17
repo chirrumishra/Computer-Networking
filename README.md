@@ -4,7 +4,7 @@
 
 ex4( CLIENT SERVER ECHO COMMUNICATION USING)
 Server :
-![](Screenshot_Output/ex4_server.png)
+![](Screenshot_Output/ex4_server.png "Server")
 
 Client :
 ![](Screenshot_Output/ex4_client.png)
