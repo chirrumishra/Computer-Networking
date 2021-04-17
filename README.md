@@ -26,3 +26,11 @@ ex8(Implementation of File Transfer Protocol)
 ex9(Remote Command Execution using UDP)
 ![](Screenshot_Output/ex9_server.png)
 ![](Screenshot_Output/ex9_client.png)
+
+ex10(Mac Address)
+```python
+python3 ex10.py
+#Then you have to put your IP Address 
+#eg: 127.0.0.1
+#Output would be your mac Address , I'm not posting that screenshot for privacy reasons 
+```
