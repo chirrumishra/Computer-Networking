@@ -1,0 +1,17 @@
+# Computer-Networking
+
+Implementation of Peograms :
+
+# ex3()
+
+# ex4( CLIENT SERVER ECHO COMMUNICATION USING)
+
+# ex5( TRANSFERRING DATE AND TIME VALUES FROM SERVER TO CLIENT USING TCP)
+
+# ex6( TO PERFORM A CALCULATOR SIMULATION USING TCP/IP (HALF DUPLEX))
+
+# ex7( TO PERFORM -DUPLEX COMMUNICATION BETWEEN SERVER AND CLIENT)
+
+# ex8(Implementation of File Transfer Protocol)
+
+# ex9(Remote Command Execution using UDP)
